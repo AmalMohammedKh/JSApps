@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 10px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 400px;
+}
+
+input{
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid green;
+    margin-bottom: 4px;
+}
+
+button{
+    background: green;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border: 1px solid green;
+    font-weight: bold;
+    cursor: pointer;
+}
+#delete-btn{
+    background: white;
+    color: green;
+}
+ul{
+    list-style: none;
+    padding-left: 0;
+}
+li{
+    margin-bottom: 4px;
+}
+li a{
+    color: green;
+}
